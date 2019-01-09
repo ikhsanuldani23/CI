@@ -95,10 +95,6 @@
 							</li>
 
 							<li>
-								<a href="blog.html">Blog</a>
-							</li>
-
-							<li>
 								<a href="<?php echo base_url();?>index.php/Web/aboutt">About</a>
 							</li>
 

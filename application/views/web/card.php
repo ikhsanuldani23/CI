@@ -177,13 +177,16 @@
 								</div>
 
 								<div class="block2-txt p-t-20">
-									<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
-										Herschel supply co 25l
+									<a href="<?php echo base_url();?>index.php/Web/kartu1" class="block2-name dis-block s-text3 p-b-5">
+										<button class = " btn btn-danger ">
+                                        Bussiness Card
+                                        </button>
 									</a>
 
 									<span class="block2-price m-text6 p-r-5">
-										$75.00
-									</span>
+										IDR 35.000
+                                    </span>
+
 								</div>
 							</div>
 						</div>
@@ -209,14 +212,17 @@
 									</div>
 								</div>
 
-								<div class="block2-txt p-t-20">
-									<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
-										Denim jacket blue
+                                <div class="block2-txt p-t-20">
+									<a href="<?php echo base_url();?>index.php/Web/kartu1" class="block2-name dis-block s-text3 p-b-5">
+										<button class = " btn btn-danger ">
+                                      Simple Card
+                                        </button>
 									</a>
 
 									<span class="block2-price m-text6 p-r-5">
-										$92.50
-									</span>
+										IDR 35.000
+                                    </span>
+                                    
 								</div>
 							</div>
 						</div>
@@ -242,14 +248,17 @@
 									</div>
 								</div>
 
-								<div class="block2-txt p-t-20">
-									<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
-										Coach slim easton black
+                                <div class="block2-txt p-t-20">
+									<a href="<?php echo base_url();?>index.php/Web/kartu1" class="block2-name dis-block s-text3 p-b-5">
+										<button class = " btn btn-danger ">
+                                        Birthday Card
+                                        </button>
 									</a>
 
 									<span class="block2-price m-text6 p-r-5">
-										$165.90
-									</span>
+										IDR 35.000
+                                    </span>
+
 								</div>
 							</div>
 						</div>
