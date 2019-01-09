@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Home</title>
+	<title>Advertising</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -78,21 +78,16 @@
 				<div class="wrap_menu">
 					<nav class="menu">
 						<ul class="main_menu">
-							<li>
-								<a href="index.html">Home</a>
-								<ul class="sub_menu">
-									<li><a href="index.html">Homepage V1</a></li>
-									<li><a href="home-02.html">Homepage V2</a></li>
-									<li><a href="home-03.html">Homepage V3</a></li>
-								</ul>
+							<li  class="sale-noti">
+								<a href="<?php echo base_url();?>index.php/Web/home">Home</a>
 							</li>
 
 							<li>
-								<a href="product.html">Shop</a>
+								<a href="product.html">Cards</a>
 							</li>
 
-							<li class="sale-noti">
-								<a href="product.html">Sale</a>
+							<li>
+								<a href="product.html">Banners</a>
 							</li>
 
 							<li>
@@ -104,11 +99,11 @@
 							</li>
 
 							<li>
-								<a href="about.html">About</a>
+								<a href="<?php echo base_url();?>index.php/Web/aboutt">About</a>
 							</li>
 
 							<li>
-								<a href="contact.html">Contact</a>
+								<a href="<?php echo base_url();?>index.php/Web/kontak">Contact</a>
 							</li>
 						</ul>
 					</nav>
