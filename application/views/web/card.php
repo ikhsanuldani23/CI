@@ -159,7 +159,7 @@
 							<!-- Block2 -->
 							<div class="block2">
 								<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-									<img src="<?php echo base_url();?>assets/web/images/item-02.jpg" alt="IMG-PRODUCT">
+									<img src="<?php echo base_url();?>assets/web/images/item4.jpg" alt="IMG-PRODUCT">
 
 									<div class="block2-overlay trans-0-4">
 										<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -195,7 +195,7 @@
 							<!-- Block2 -->
 							<div class="block2">
 								<div class="block2-img wrap-pic-w of-hidden pos-relative">
-									<img src="<?php echo base_url();?>assets/web/images/item-03.jpg" alt="IMG-PRODUCT">
+									<img src="<?php echo base_url();?>assets/web/images/item5.jpg" alt="IMG-PRODUCT">
 
 									<div class="block2-overlay trans-0-4">
 										<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">

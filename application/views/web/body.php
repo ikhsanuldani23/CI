@@ -5,12 +5,12 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="<?php echo base_url();?>assets/web/images/banner-05.jpg" alt="IMG-BENNER">
+						<img src="<?php echo base_url();?>assets/web/images/banner1.jpg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Sunglasses
+								Brossur
 							</a>
 						</div>
 					</div>
@@ -19,12 +19,12 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="<?php echo base_url();?>assets/web/images/banner-03.jpg" alt="IMG-BENNER">
+						<img src="<?php echo base_url();?>assets/web/images/banner2.jpg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Watches
+								Card
 							</a>
 						</div>
 					</div>
@@ -33,12 +33,12 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 m-l-r-auto">
 					<!-- block1 -->
 					<div class="block1 hov-img-zoom pos-relative m-b-30">
-						<img src="<?php echo base_url();?>assets/web/images/banner-10.jpg" alt="IMG-BENNER">
+						<img src="<?php echo base_url();?>assets/web/images/banner3.jpg" alt="IMG-BENNER">
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
 							<a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
-								Bags
+								Calender
 							</a>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-								<img src="<?php echo base_url();?>assets/web/images/item-02.jpg" alt="IMG-PRODUCT">
+								<img src="<?php echo base_url();?>assets/web/images/item2.jpg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -98,7 +98,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="<?php echo base_url();?>assets/web/images/item-03.jpg" alt="IMG-PRODUCT">
+								<img src="<?php echo base_url();?>assets/web/images/item1.jpg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -131,7 +131,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative">
-								<img src="<?php echo base_url();?>assets/web/images/item-05.jpg" alt="IMG-PRODUCT">
+								<img src="<?php echo base_url();?>assets/web/images/item3.jpg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -164,7 +164,7 @@
 						<!-- Block2 -->
 						<div class="block2">
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
-								<img src="<?php echo base_url();?>assets/web/images/item-07.jpg" alt="IMG-PRODUCT">
+								<img src="<?php echo base_url();?>assets/web/images/item4.jpg" alt="IMG-PRODUCT">
 
 								<div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
@@ -337,18 +337,6 @@
 
 		</div>
 	</section>
-
-
-
-
-    	<!-- New Product -->
-	<section class="newproduct bgwhite p-t-45 p-b-105">
-		<div class="container">
-			<div class="sec-title p-b-60">
-				<h3 class="m-text5 t-center">
-					Featured Products
-				</h3>
-			</div>
 
 			<!-- Slide2 -->
 			<div class="wrap-slick2">
