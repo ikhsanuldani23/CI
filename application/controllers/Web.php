@@ -39,4 +39,11 @@ class Web extends CI_Controller {
 		$this->load->view('web/contact');
 		$this->load->view('web/footer');
 	}
+
+	public function kartu()
+	{
+		$this->load->view('web/head');
+		$this->load->view('web/card');
+		$this->load->view('web/footer');
+	}
 }

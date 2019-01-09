@@ -83,7 +83,7 @@
 							</li>
 
 							<li>
-								<a href="product.html">Cards</a>
+								<a href="<?php echo base_url();?>index.php/Web/kartu">Cards</a>
 							</li>
 
 							<li>
