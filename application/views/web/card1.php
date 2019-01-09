@@ -8,7 +8,7 @@
 					<div class="slick3">
 						<div class="item-slick3" data-thumb="<?php echo base_url();?>assets/web/images/thumb-item-01.jpg">
 							<div class="wrap-pic-w">
-								<img src="<?php echo base_url();?>assets/web/images/product-detail-01.jpg" alt="IMG-PRODUCT">
+								<img src="<?php echo base_url();?>assets/web/images/detail1.jpg" alt="IMG-PRODUCT">
 							</div>
 						</div>
 
