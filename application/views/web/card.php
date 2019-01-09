@@ -213,7 +213,7 @@
 								</div>
 
                                 <div class="block2-txt p-t-20">
-									<a href="<?php echo base_url();?>index.php/Web/kartu1" class="block2-name dis-block s-text3 p-b-5">
+									<a href="<?php echo base_url();?>index.php/Web/kartu2" class="block2-name dis-block s-text3 p-b-5">
 										<button class = " btn btn-danger ">
                                       Simple Card
                                         </button>
