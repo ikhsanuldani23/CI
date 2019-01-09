@@ -71,7 +71,7 @@
 			<div class="wrap_header">
 				<!-- Logo -->
 				<a href="index.html" class="logo">
-					<img src="<?php echo base_url();?>assets/web/images/icons/logo.png" alt="IMG-LOGO">
+					<img src="<?php echo base_url();?>assets/web/images/icons/logo1.jpg" alt="IMG-LOGO">
 				</a>
 
 				<!-- Menu -->
